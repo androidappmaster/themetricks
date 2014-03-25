@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">themetricks</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_activity_as_dialog_on_large_screen">Show Activity as Dialog on large screens</string>
+    <string name="show_activity_as_dialog">Show Activity as Dialog</string>
+    <string name="show_activity_normal">Show Activity as default</string>
+
+</resources>
